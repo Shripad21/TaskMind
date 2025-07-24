@@ -265,7 +265,13 @@ npm run preview
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](client/src/assets/first.png)
+
+### Tasks
+![tasks](client/src/assets/second.png)
+
+### Streaks
+![Streaks](client/src/assets/third.png)
 
 ### Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics](client/src/assets/fourth.png)

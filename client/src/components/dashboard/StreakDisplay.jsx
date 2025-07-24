@@ -29,14 +29,14 @@ const StreakDisplay = ({ streaks }) => {
       
       {/* Summary Stats */}
       <div className="grid grid-cols-2 gap-4 mb-6">
-        <div className="bg-gradient-to-r from-orange-50 to-red-50 p-4 rounded-lg">
+        {/* <div className="bg-gradient-to-r from-orange-50 to-red-50 p-4 rounded-lg">
           <p className="text-sm font-medium text-gray-600">Active Streaks</p>
           <p className="text-2xl font-bold text-orange-600">{activeStreaks.length}</p>
-        </div>
-        <div className="bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg">
+        </div> */}
+        {/* <div className="bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg">
           <p className="text-sm font-medium text-gray-600">Longest Streak</p>
           <p className="text-2xl font-bold text-purple-600">{longestStreak}</p>
-        </div>
+        </div> */}
       </div>
 
       {/* Individual Streaks */}

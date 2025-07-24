@@ -262,6 +262,3 @@ npm run preview
 
 ---
 
-## 📬 Contact
-
-Built with ❤️ by [Your Name]
